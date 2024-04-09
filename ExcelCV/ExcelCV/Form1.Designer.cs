@@ -75,7 +75,7 @@ namespace ExcelCV
             this.Controls.Add(this.buttonB);
             this.Controls.Add(this.ButtonA);
             this.Name = "钟志平Ver2";
-            this.Text = "钟志平Ver2";
+            this.Text = "钟志平Ver3";
             this.ResumeLayout(false);
 
         }
